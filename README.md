@@ -1,5 +1,5 @@
 # KazanExpress
 
-- В апреле 2022 года мною было выполнено тестовое задание на позицию стажера в компанию KazanExpress. 
-- По лидерборду заняла 16 место с качеством модели 0.8179 на тестовой выборке. 
+- In april 2022 I have done a test task for intern position in the company called KazanExpress. 
+- I took 16th place in the leaderboard with the quality score of 0.81 on test data. That was a great experience for me to deal with real working task and use NLP methods, such as lemmatization, 
 - [Solution](KazanExpressSolution.ipynb)
